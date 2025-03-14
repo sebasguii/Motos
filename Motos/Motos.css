@@ -1,0 +1,75 @@
+body{
+    background-size: cover;
+    
+}
+.redes{
+
+    list-style-type: none;
+    background-color: rgb(19, 18, 16,90%);
+}
+.si{
+    background-color: rgb(209, 203, 203,90%);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.ingresar{
+    color: rgb(248, 247, 247);
+    text-align: center;
+    font-size: 20px;
+    
+}
+.login{
+    display: block;
+    align-items: center;
+    width: 100%;
+}
+
+.principal{
+background-image: url(moto2.jpg);
+background-size: cover;
+color: azure;
+}
+
+.menu{
+    display:flex ;
+    justify-content: space-between;
+    font-size: medium;
+    background-color: rgba(85, 84, 84, 0.5);
+
+}
+
+.motos{
+    background-color: rgb(70, 99, 99);
+}
+
+.moto1{
+    display: grid;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+
+}
+
+.moto2{
+    width: 300px;
+    height: 300px;
+}
+.moto3{
+    width: 300px;
+    height: 300px;
+}
+.moto4{
+    width: 300px;
+    height: 300px;
+}
+
+.seleccion{
+    display: flex;
+    justify-content: space-around ;
+    background-color: rgb(165, 164, 162,50%);
+}
+
+
+
